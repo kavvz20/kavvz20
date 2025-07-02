@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi there! I'm Kavya
 
 ✨ A web development enthusiast exploring creative and meaningful projects.
