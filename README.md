@@ -25,7 +25,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavvz20&show_icons=true&theme=radical)
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavvz20&show_icons=true&theme=radical&cache_seconds=60)
 
 ---
 
