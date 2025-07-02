@@ -35,9 +35,9 @@ I love designing smooth user interfaces and exploring new technologies!
 
 ---
 
-##📫 How to reach me:
+## 📫 How to reach me:
 -Email: kthukral_be24@thapar.edu
--linked in: www.linkedin.com/in/kavya-thukral-82b090325
+-Linked in: www.linkedin.com/in/kavya-thukral-82b090325
 
 <!--
 **kavvz20/kavvz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
